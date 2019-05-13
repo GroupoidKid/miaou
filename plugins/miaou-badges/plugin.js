@@ -86,7 +86,7 @@ const checks = [
 		}
 	},
 	{
-		name: "Old User",
+		name: "Experienced User",
 		level: "bronze",
 		condition: "Be a user for one year and write 5k real messages",
 		checkPlayer: async function(con, player){
